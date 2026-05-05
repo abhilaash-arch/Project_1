@@ -63,14 +63,6 @@ body{
     background-color: cornsilk;
     width: 400px;
 }
-.circle1{
-    border-radius: 50%;
-    border-style: solid;
-    border-color: rgb(123, 57, 57);
-    background-color: cornsilk;
-    width:30px;
-    height: 20px;
-}
 .circle{
     border-radius: 50%;
     border:2px;
