@@ -90,7 +90,7 @@ body{
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.335);
 }
 .box{
-    width: 1000px;
+    max-width: 1000px;
     background-color: antiquewhite;
     margin: 100px auto;
     padding: 20px;
