@@ -47,11 +47,13 @@ body{
     text-align: right;
 }
 .button{
-    border-radius:10px; 
-    padding:10px;
-    border: solid  rgb(123, 57, 57);
+    border-radius: 10px;
+    padding: 10px 18px;
+    border: 2px solid rgb(123, 57, 57);
     text-decoration: none;
     color: black;
+    background-color: antiquewhite;
+    transition: 0.3s;
 }
 .button1{
     border-radius:10px; 
